@@ -25,7 +25,7 @@ function Contact() {
           <h2>Let’s create something <span>great.</span></h2>
           <p>I’m open to junior frontend opportunities, collaborations and interesting projects.</p>
           <a className="button button-light" href="mailto:sheripeter89@gmail.com">
-            Get in touch
+            Get in touch <span aria-hidden="true">↗</span>
           </a>
         </div>
       </div>
