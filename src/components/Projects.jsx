@@ -12,7 +12,7 @@ const projects = [
     category: "React Business Landing Page",
     description:
       "A modern and responsive home services website designed to showcase services, build customer trust and encourage visitors to get in touch.",
-    image: "/projects/brighthome.png",
+    image: `${import.meta.env.BASE_URL}projects/brighthome.png`,
     tech: ["React", "JavaScript", "CSS", "Vite"],
     github: "https://github.com/sheripeter/BrightHome-React-Landing-Page",
     live: "https://sheripeter.github.io/BrightHome-React-Landing-Page/",
@@ -23,8 +23,8 @@ const projects = [
     category: "React Weather Application",
     description:
       "A modern weather dashboard featuring city search, current weather conditions, a five-day forecast, loading and error states, and recent search history.",
-    image: "/projects/weatherly.png",
-    tech: ["React", "JavaScript", "Vite", "Weather API", "CSS"],
+      image: `${import.meta.env.BASE_URL}projects/weatherly.png`,    
+      tech: ["React", "JavaScript", "Vite", "Weather API", "CSS"],
     github: "https://github.com/sheripeter/Weatherly",
     live: "https://sheripeter.github.io/Weatherly/",
   },
@@ -34,7 +34,7 @@ const projects = [
     category: "React Dashboard · In Progress",
     description:
       "A modern inventory management application featuring product management, stock tracking, inventory statistics, filtering and low-stock alerts.",
-    image: "/projects/stockwise.png",
+    image: `${import.meta.env.BASE_URL}projects/stockwise.png`,
     tech: ["React", "JavaScript", "CSS", "Vite"],
     
   },
