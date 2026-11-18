@@ -26,7 +26,7 @@ const skillGroups = [
       "MySQL",
       "MongoDB",
       "CRUD Operations",
-      "Nodejs(Basics)",
+      "Node js(Basics)",
       "JSON"
     ],
   },

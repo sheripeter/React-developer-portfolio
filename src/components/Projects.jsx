@@ -36,7 +36,7 @@ const projects = [
       "A modern inventory management application featuring product management, stock tracking, inventory statistics, filtering and low-stock alerts.",
     image: "/projects/stockwise.png",
     tech: ["React", "JavaScript", "CSS", "Vite"],
-    github: "https://github.com/sheripeter/StockWise",
+    
   },
 ];
 
