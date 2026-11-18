@@ -87,37 +87,6 @@ A business inventory management application designed to simplify product managem
 - MongoDB CRUD Operations
 - MongoDB for SQL Experts
 
-## ⚙️ Run Locally
-
-Follow these steps to run the portfolio on your local machine.
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/sheripeter/React-developer-portfolio.git
-```
-
-**2. Navigate to the project directory**
-
-```bash
-cd react-developer-portfolio
-```
-
-**3. Install dependencies**
-
-```bash
-npm install
-```
-
-**4. Start the development server**
-
-```bash
-npm run dev
-```
-
-**5. Open the local URL**
-
-Visit the localhost URL displayed in your terminal.
 
 ## 📬 Contact
 
